@@ -1,0 +1,35 @@
+{
+    "grocerylist":[
+        {
+            "head":"SlNo", 
+            "item":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+        },
+        {
+            "head":"Name", 
+            "item":["Bean", "Onion", "Tomato", "Milk", "Yogurt","Rice", "Tea Dust", "Coconut Oil","Sugar", "Dishwasher", "Soap","Sanitizer", "TissuePaper", "FaceMask","Gloves"]
+        },
+        {
+            "head":"Quantity", 
+            "item":[1, 1, 1, 2,1,5,2,1,1,1,3,3,2,2,2]
+        },
+        {
+            "head":"Unit", 
+            "item":[250, 500,25, 500,150, 5,500, 1,1,150, 75,250, 100, "num","num"]
+        },
+        {
+            "head":"Department", 
+            "item":["Vegetables","Vegetables","Vegetables","Dairy","Dairy","Grocery","Grocery","Grocery","Grocery","Cleaning Pdt","Cleaning Pdt","Cleaning Pdt","Cleaning Pdt","Medicines","Medicines"]
+        },
+        {
+            "head":"Note", 
+            "item":["Veg-Mart","Veg-Mart","Veg-Mart","Milma/Quality","Milma/Quality","7Star","AVT","Kera","Brown-sugar","Vim","Pears","Detol","Good quality","N95","TWING Disposable Latex Gloves"]
+        }
+    ]
+}
+        
+       
+    
+
+
+
+        
